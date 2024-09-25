@@ -1,2 +1,2 @@
-# -deleteColaborador_repository
+# deleteColaborador_repository
 actividad AA_11_C
